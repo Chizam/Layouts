@@ -26,7 +26,7 @@
         display: grid;
         grid-template-columns: auto auto;
         /*grid-template-rows: auto auto auto;*/
-        gap: 50px;
+        gap: 40px;
         width: 100%;
     }
     
@@ -47,7 +47,7 @@
     .flaot-p {
         display: grid;
         grid-template-columns: auto auto;
-        gap: 50px;
+        gap: 30px;
     }
     
     .topic h1 {
